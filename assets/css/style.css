@@ -6,7 +6,7 @@ body {
 	/*min-width: 1356px;*/
 	min-height: 100%;
 	height: auto;
-
+	position: relative;
 }
 
 header {
