@@ -3,7 +3,7 @@ body {
 	background: url("../images/fresh_snow.png");
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777;
-	width: 100%
+	min-width: 1356px;
 }
 
 header {
@@ -11,7 +11,7 @@ header {
 	border-width: 0px 0px 2px 0px;
 	border-style: solid;
 	border-color: #cccccc;
-	width: 100%;
+	min-width: 1356px;
 	height: 90px;
 }
  
