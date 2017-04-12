@@ -134,7 +134,7 @@ footer {
 	border-color: #4aaaa5;
 	border-width: 8px 0px 0px 0px;
 	height: 94px;
-	width: 100%;
+	min-width: 100%;
 	bottom: 0px;
 }
 
